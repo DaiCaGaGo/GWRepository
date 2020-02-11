@@ -1,0 +1,1 @@
+exp onedu/onedu12345@orcl file=D:\database_backup\backup_edu
